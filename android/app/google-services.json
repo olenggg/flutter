@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892368187837",
+    "project_id": "flutter-firebase-reza",
+    "storage_bucket": "flutter-firebase-reza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892368187837:android:a9ddb161b07f1a2f0e22d4",
+        "android_client_info": {
+          "package_name": "com.example.flutterbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892368187837-ql90k33t6nus5c6mmar1tns7b9imshsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterbase",
+            "certificate_hash": "246a5dee5b3e42301881afb3ed577a1a5327c408"
+          }
+        },
+        {
+          "client_id": "892368187837-eb6p66gliersrq04m1f26fr94pffuckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFw8TrVUl7NnQPQHoqtpyMAyENA-76jRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892368187837-eb6p66gliersrq04m1f26fr94pffuckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
